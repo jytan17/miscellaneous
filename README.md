@@ -1,1 +1,9 @@
-A repository of all smaller projects/experiments on DS/ML related subjects.
+# Directory
+
+## Computer Vision Stuff
+
+## NLP Stuff
+
+## Data Analysis Stuff
+
+##
