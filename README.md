@@ -1,5 +1,6 @@
 # Directory
-This repository contains the smaller projects/experiements on topics/technologies that I find interesting. 
+
+This repository is for storing all the mini projects and experiments.
 
 ## Computer Vision Stuff
 
