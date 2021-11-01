@@ -14,5 +14,5 @@ This repository is for storing all the mini projects and experiments.
 ## NLP Stuff
 
 ## Data Analysis Stuff
-
+- [Nitrix Oxide Emissions Analysis](https://github.com/jytan17/miscellaneous/blob/main/data_analysis/NOx%20Emission.pdf)
 ## Other
